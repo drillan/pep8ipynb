@@ -4,5 +4,5 @@ check your jupyter notebook file(ipynb file) against some of the style conventio
 Example:  
 
 ```bash
-python pep8ipynb.py sample/sample.ipynb
+python pep8ipynb.py sample.ipynb
 ```
